@@ -39,21 +39,17 @@ h1 {
 .card {
     box-shadow: 0 0 30px -5px rgba(30, 31, 43, 0.219);
     background:#fffaf7;
-    margin-left: 2em;
     border: none;
 }
 
 .col-lg-4 {
-    margin-bottom: 3em;
+    margin-bottom: 2em;
 }
 
 .card-body {
     padding: 2em;
 }
 
-p {
-    text-align: justify;
-}
 /**************** FOOTER ***************/
 
 footer {
